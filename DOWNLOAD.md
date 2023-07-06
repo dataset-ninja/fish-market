@@ -1,6 +1,6 @@
 Dataset **Fish Market** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/O/f/QI/aJWzwZ4EDEnmRL9e37GzddyWqc0FSJF507vAsyMOTyRakcUSUEeec52Gp5GpQkqGcvMs8f0RcJ0l9FrqBMvPvEWHKlPnXx9FdpHA0tAtpxDTXIIjCFFKtj1s27IF.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/W/5/2S/MWkvG7AGd4xde2uaUyRM9ox730FvPTXZMhbk7jEUITLaOEqSuJIu7fas4rVfBoshCom5ekfQbcZpJjtMo7UjbTjNkkPVan2W7QaNbkB9z71InCUtr9p3RCYoWukD.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
